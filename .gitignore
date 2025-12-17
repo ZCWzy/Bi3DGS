@@ -1,0 +1,28 @@
+# --- 数据集文件夹 ---
+# 假设你的数据集放在 data 或 datasets 文件夹下
+/dataset
+
+
+
+# --- 训练输出结果 ---
+# 过滤掉生成的点云、模型权重、日志
+/output/*
+/keypoints_to_3d
+
+
+
+# --- Python 临时文件 ---
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# --- 系统及 IDE 文件 ---
+.DS_Store
+.vscode/
+.idea/
+
+# --- 其他大文件 ---
+*.zip
+*.tar.gz
+*.7z
+*.pth.tar

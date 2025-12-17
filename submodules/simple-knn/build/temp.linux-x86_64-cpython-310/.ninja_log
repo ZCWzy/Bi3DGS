@@ -1,0 +1,4 @@
+# ninja log v5
+0	6046	1745311826776066000	/media/zcwzy/新加卷/code/Binocular3DGS/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/simple_knn.o	eb3f2f0f820162cd
+0	9529	1745311830257609400	/media/zcwzy/新加卷/code/Binocular3DGS/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/ext.o	44f3d222004d3715
+0	30071	1745311850795714000	/media/zcwzy/新加卷/code/Binocular3DGS/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/spatial.o	4cad3e948d304d52
